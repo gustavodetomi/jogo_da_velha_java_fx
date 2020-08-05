@@ -1,2 +1,5 @@
-# jogo_da_velha_java_fx
-- Jogo da velha JAVAFX
+# JOGO DA VELHA (TIC TAC TOE)
+- Java FX
+- Java 8
+- MVC
+- Intellij IDEA
